@@ -1,2 +1,17 @@
-# santa-claus-concurrency
-This project implements a solution to the classic Santa Claus synchronization problem, a concurrency challenge commonly used in operating systems courses to demonstrate thread coordination and synchronization.
+# Santa Claus Problem
+
+## Overview
+A classic concurrency problem demonstrating thread synchronization and coordination.
+
+## Key Concepts
+- Multithreading
+- Deadlock avoidance
+- Synchronization primitives
+
+## Technologies
+- Java
+- Threading and synchronization
+
+## Learning Outcomes
+- Concurrency control
+- Debugging multithreaded programs
